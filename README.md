@@ -7,14 +7,25 @@
   </p>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=defadede&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=defadede&layout=compact&langs_count=5&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" />
+    <img
+      height="160"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=defadede&theme=github_dark"
+      alt="GitHub Stats (Summary Cards)"
+    />
+    <img
+      height="160"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=defadede&theme=github_dark"
+      alt="Top Languages (Summary Cards)"
+    />
   </div>
 
   <h3>📊 Contribution Graph</h3>
-  <img src="https://ghchart.rshah.org/defadede" alt="DeFaDeDe's GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/58A6FF/defadede" alt="DeFaDeDe's GitHub Contribution Graph" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defadede&theme=dracula&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=defadede&theme=dracula&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"
+    alt="GitHub Streak"
+  />
 
   <br/><br/>
 
